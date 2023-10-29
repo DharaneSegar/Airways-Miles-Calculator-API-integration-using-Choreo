@@ -1,0 +1,24 @@
+openapi: 3.0.0
+info:
+  title: british-miles
+  version: 1.0.0
+servers:
+  - url: http://localhost:8095
+paths:
+  /britishairways/miles/:
+    post:
+      tags:
+        - default
+      summary: read
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                customerId: cus0001
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/xml: {}

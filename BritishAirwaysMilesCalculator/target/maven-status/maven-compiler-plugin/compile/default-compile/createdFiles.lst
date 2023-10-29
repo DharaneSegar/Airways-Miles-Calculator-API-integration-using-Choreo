@@ -1,0 +1,8 @@
+com\example\britishAirwaysMilesCalculator\service\MilesCalculatorService.class
+com\example\britishAirwaysMilesCalculator\model\BritishCheckIn.class
+com\example\britishAirwaysMilesCalculator\model\MilesRequest.class
+com\example\britishAirwaysMilesCalculator\controller\MilesCalculatorController.class
+com\example\britishAirwaysMilesCalculator\BritishAirwaysMilesCalculatorApplication.class
+com\example\britishAirwaysMilesCalculator\model\miles.class
+com\example\britishAirwaysMilesCalculator\repository\MilesRepository.class
+com\example\britishAirwaysMilesCalculator\Impl\MilesCalculatorServiceImpl.class
